@@ -1,2 +1,8 @@
-DOMAIN-KEYWORD,openai.com, OpenAI
-DOMAIN,openaiapi-site.azureedge.net, OpenAI
+host-suffix, ai.com, OpenAI
+host-suffix, openai.com, OpenAI
+host-suffix, vimeo.com, OpenAI
+host-suffix, vimeocdn.com, OpenAI
+host-suffix, hcaptcha.com, OpenAI
+host-suffix, akamaized.com, OpenAI
+host, cdn.auth0.com, OpenAI
+host, openaiapi-site.azureedge.net, OpenAI
